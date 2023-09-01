@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8549],{6915:e=>{e.exports=JSON.parse('{"label":"\u5e38\u7528API","permalink":"/test/docs/tags/\u5e38\u7528api","allTagsPath":"/test/docs/tags","count":1,"items":[{"id":"FrontEnd/vue/api","title":"2. Vue\u5e38\u7528API","description":"","permalink":"/test/docs/FrontEnd/vue/vue-api"}]}')}}]);

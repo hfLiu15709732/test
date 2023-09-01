@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9625],{2499:t=>{t.exports=JSON.parse('{"label":"Nuxt3","permalink":"/docs/tags/nuxt-3","allTagsPath":"/docs/tags","count":1,"items":[{"id":"FrontEnd/SSR/Nuxt_base","title":"1. Nuxt3\u57fa\u7840\u5b66\u4e60","description":"1. \u7406\u8bba\u5b66\u4e60","permalink":"/docs/FrontEnd/SSR/nuxt"}]}')}}]);

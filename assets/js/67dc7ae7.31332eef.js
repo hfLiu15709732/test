@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5789],{5273:e=>{e.exports=JSON.parse('{"label":"\u6307\u9488","permalink":"/docs/tags/\u6307\u9488","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Tech/golong_server/\u6307\u9488","title":"5. \u6307\u9488","description":"","permalink":"/docs/Tech/golong_server/Python_import"}]}')}}]);
